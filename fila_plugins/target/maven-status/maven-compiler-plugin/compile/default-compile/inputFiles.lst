@@ -1,0 +1,12 @@
+/home/vinicius/Documentos/Programação/api-seleção-simplificada/fila_plugins/src/main/java/com/vinicius123131/fila_plugins/rest_configurations/ExceptionHandlers.java
+/home/vinicius/Documentos/Programação/api-seleção-simplificada/fila_plugins/src/main/java/com/vinicius123131/fila_plugins/use_cases/criar_nova_pessoa/rest_endpoints/contracts/input/mappers/CriarNovaPessoaRestEndpointInputMapper.java
+/home/vinicius/Documentos/Programação/api-seleção-simplificada/fila_plugins/src/main/java/com/vinicius123131/fila_plugins/use_cases/criar_nova_pessoa/rest_endpoints/CriarNovaPessoaRestEndpoint.java
+/home/vinicius/Documentos/Programação/api-seleção-simplificada/fila_plugins/src/main/java/com/vinicius123131/fila_plugins/data_base_configurations/table_entities/PessoaTableEntity.java
+/home/vinicius/Documentos/Programação/api-seleção-simplificada/fila_plugins/src/main/java/com/vinicius123131/fila_plugins/use_cases/criar_nova_pessoa/rest_endpoints/contracts/output/CriarNovaPessoaRestEndpointOutput.java
+/home/vinicius/Documentos/Programação/api-seleção-simplificada/fila_plugins/src/main/java/com/vinicius123131/fila_plugins/data_base_configurations/table_entities/mappers/PessoaTableEntityMapper.java
+/home/vinicius/Documentos/Programação/api-seleção-simplificada/fila_plugins/src/main/java/com/vinicius123131/fila_plugins/FilaPluginsApp.java
+/home/vinicius/Documentos/Programação/api-seleção-simplificada/fila_plugins/src/main/java/com/vinicius123131/fila_plugins/use_cases/criar_nova_pessoa/port_adapters/ArmazenamentoPessoaPortAdapter.java
+/home/vinicius/Documentos/Programação/api-seleção-simplificada/fila_plugins/src/main/java/com/vinicius123131/fila_plugins/data_base_configurations/repositories/PessoaTableEntityRepository.java
+/home/vinicius/Documentos/Programação/api-seleção-simplificada/fila_plugins/src/main/java/com/vinicius123131/fila_plugins/use_cases/criar_nova_pessoa/rest_endpoints/contracts/input/CriarNovaPessoaRestEndpointInput.java
+/home/vinicius/Documentos/Programação/api-seleção-simplificada/fila_plugins/src/main/java/com/vinicius123131/fila_plugins/use_cases/criar_nova_pessoa/use_case_provider/CriarNovaPessoaUseCaseProvider.java
+/home/vinicius/Documentos/Programação/api-seleção-simplificada/fila_plugins/src/main/java/com/vinicius123131/fila_plugins/rest_configurations/Resources.java

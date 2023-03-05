@@ -12,5 +12,5 @@ public abstract class Pessoa implements PessoaNaFila {
     protected Long id;
     protected String nome;
     protected Integer idade;
-    protected Long posicao_fila;
+    protected Integer posicao_fila;
 }

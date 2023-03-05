@@ -1,6 +1,4 @@
 
-7
-pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
 v
 Fsrc/main/java/com/vinicius123131/entidades/contracts/PessoaNaFila.java,5/c/5c75c866db0da19cc40eaf590914cad657a803da
 Ñ
@@ -11,8 +9,6 @@ Gsrc/main/java/com/vinicius123131/entidades/factories/PessoaFactory.java,a/e/ae
 esrc/main/java/com/vinicius123131/entidades/implementations/validation_rules/PessoaValidationRule.java,f/3/f3d474b49dc136c56c0fecea022083f0403ca785
 Ñ
 Tsrc/main/java/com/vinicius123131/entidades/implementations/PessoaImplementation.java,7/0/70e2705b761264e1d5e0121f9e90840593644c73
-f
-6src/main/java/com/vinicius123131/entidades/Pessoa.java,2/9/297c94e71abbf0c04e9fc0456bfb05c77151b68d
 v
 Fsrc/main/java/com/vinicius123131/use_cases/contracts/ConsumerPort.java,3/3/33afb322eb9825958863cef209cc7bf29a2b90ad
 y
@@ -31,9 +27,3 @@ Fsrc/main/java/com/vinicius123131/use_cases/contracts/SupplierPort.java,f/d/fd4
 psrc/main/java/com/vinicius123131/use_cases/criar_nova_pessoa/implementations/ports/ArmazenamentoPesssoaPort.java,1/4/1440802c37819ff3b295d06dc6788de549192e7e
 Å
 Qsrc/main/java/com/vinicius123131/use_cases/criar_nova_pessoa/CriarNovaPessoa.java,e/5/e5d8f1348639fcb7ecb73229f0ef1d7419f370ce
-ü
-osrc/main/java/com/vinicius123131/use_cases/criar_nova_pessoa/implementations/CriarNovaPessoaImplementation.java,4/b/4b5df4374a9a1ed69c966ee06f50fa9cb978c4b3
-ù
-msrc/main/java/com/vinicius123131/use_cases/buscar_pessoas/implementations/ports/BuscarTodasAsPessoasPort.java,f/c/fc5800b83515a349dba99f3d98c28bca4b480910
-õ
-ksrc/main/java/com/vinicius123131/use_cases/buscar_pessoas/factories/BuscarTodasAsPessoasUseCaseFactory.java,9/4/944c85d2b7b68a350cc571bc29a2127c8ba1fac7

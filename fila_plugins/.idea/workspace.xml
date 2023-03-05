@@ -4,11 +4,47 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="58b09219-7f25-4d43-8b3f-54529a6cddcb" name="Changes" comment="" />
+    <list default="true" id="58b09219-7f25-4d43-8b3f-54529a6cddcb" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fila_core/.idea/sonarlint/issuestore/2/9/297c94e71abbf0c04e9fc0456bfb05c77151b68d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fila_core/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fila_core/.idea/sonarlint/issuestore/4/b/4b5df4374a9a1ed69c966ee06f50fa9cb978c4b3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fila_core/.idea/sonarlint/issuestore/9/4/944c85d2b7b68a350cc571bc29a2127c8ba1fac7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fila_core/.idea/sonarlint/issuestore/f/c/fc5800b83515a349dba99f3d98c28bca4b480910" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fila_core/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../fila_core/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fila_core/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fila_core/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fila_core/src/main/java/com/vinicius123131/entidades/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fila_core/src/main/java/com/vinicius123131/entidades/Pessoa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fila_core/src/main/java/com/vinicius123131/use_cases/buscar_pessoas/factories/BuscarTodasAsPessoasUseCaseFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fila_core/src/main/java/com/vinicius123131/use_cases/buscar_pessoas/factories/BuscarTodasAsPessoasUseCaseFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fila_core/src/main/java/com/vinicius123131/use_cases/buscar_pessoas/implementations/BuscarTodasAsPessoasImplementation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fila_core/src/main/java/com/vinicius123131/use_cases/buscar_pessoas/implementations/BuscarTodasAsPessoasImplementation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fila_core/src/main/java/com/vinicius123131/use_cases/buscar_pessoas/implementations/ports/BuscarTodasAsPessoasPort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fila_core/src/main/java/com/vinicius123131/use_cases/buscar_pessoas/implementations/ports/BuscarTodasAsPessoasPort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fila_core/src/main/java/com/vinicius123131/use_cases/contracts/FunctionUseCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fila_core/src/main/java/com/vinicius123131/use_cases/contracts/FunctionUseCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fila_core/src/main/java/com/vinicius123131/use_cases/criar_nova_pessoa/implementations/CriarNovaPessoaImplementation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fila_core/src/main/java/com/vinicius123131/use_cases/criar_nova_pessoa/implementations/CriarNovaPessoaImplementation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/vinicius123131/Main.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="isToolWindowVisible" value="false" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -18,16 +54,55 @@
     </option>
   </component>
   <component name="ProjectId" id="2MY9lXn3xrCx1CyMT1bLM6VWnqa" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/vinicius/Documentos/Programação/api-seleção-simplificada/fila_plugins/src/main/java/com/vinicius123131/fila_plugins/use_cases/editar_usuario_por_id&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.vinicius123131.fila_plugins.rest_configurations" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/vinicius123131/fila_plugins/use_cases/editar_usuario_por_id" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/vinicius123131/fila_plugins/use_cases/apagar_pessoa_por_id" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/vinicius123131/fila_plugins/use_cases/buscar_pessoas" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="plugins" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.vinicius123131.fila_plugins.FilaPluginsApp" />
+      <module name="fila_plugins" />
+      <extension name="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" IS_EXECUTABLE="false" />
+        </ENTRIES>
+      </extension>
+      <extension name="software.aws.toolkits.jetbrains.core.execution.JavaAwsConnectionExtension">
+        <option name="credential" />
+        <option name="region" />
+        <option name="useCurrentConnection" value="false" />
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

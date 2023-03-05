@@ -4,7 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27eb00fc-57e6-41c2-a857-5c7c3e632068" name="Changes" comment="" />
+    <list default="true" id="27eb00fc-57e6-41c2-a857-5c7c3e632068" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/9/297c94e71abbf0c04e9fc0456bfb05c77151b68d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/b/4b5df4374a9a1ed69c966ee06f50fa9cb978c4b3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/4/944c85d2b7b68a350cc571bc29a2127c8ba1fac7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/c/fc5800b83515a349dba99f3d98c28bca4b480910" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/vinicius123131/entidades/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vinicius123131/entidades/Pessoa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/vinicius123131/use_cases/buscar_pessoas/factories/BuscarTodasAsPessoasUseCaseFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vinicius123131/use_cases/buscar_pessoas/factories/BuscarTodasAsPessoasUseCaseFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/vinicius123131/use_cases/buscar_pessoas/implementations/BuscarTodasAsPessoasImplementation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vinicius123131/use_cases/buscar_pessoas/implementations/BuscarTodasAsPessoasImplementation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/vinicius123131/use_cases/buscar_pessoas/implementations/ports/BuscarTodasAsPessoasPort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vinicius123131/use_cases/buscar_pessoas/implementations/ports/BuscarTodasAsPessoasPort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/vinicius123131/use_cases/contracts/FunctionUseCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vinicius123131/use_cases/contracts/FunctionUseCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/vinicius123131/use_cases/criar_nova_pessoa/implementations/CriarNovaPessoaImplementation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vinicius123131/use_cases/criar_nova_pessoa/implementations/CriarNovaPessoaImplementation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fila_plugins/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fila_plugins/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fila_plugins/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fila_plugins/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fila_plugins/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fila_plugins/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fila_plugins/src/main/java/com/vinicius123131/Main.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +37,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -29,6 +51,9 @@
     </option>
   </component>
   <component name="ProjectId" id="2MY9f5dGUoFKHjTugpKGYjDtNuD" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
