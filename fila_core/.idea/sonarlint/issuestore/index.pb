@@ -1,6 +1,4 @@
 
-v
-Fsrc/main/java/com/vinicius123131/entidades/contracts/PessoaNaFila.java,5/c/5c75c866db0da19cc40eaf590914cad657a803da
 Ñ
 Tsrc/main/java/com/vinicius123131/entidades/factories/contracts/EntidadesFactory.java,2/5/25bda604ec73c6a2522b2bdae7dadbf547fb4823
 w
@@ -23,7 +21,5 @@ v
 Fsrc/main/java/com/vinicius123131/use_cases/contracts/SupplierPort.java,f/d/fd4e215c1ac7b3d600e79c9f623378a2da78ee92
 µ
 Ñsrc/main/java/com/vinicius123131/use_cases/criar_nova_pessoa/implementations/exceptions/PessoaComPropriedadesInvalidasException.java,0/9/097f031f99307dd4032c16f9ad8168ca892fe940
-†
-psrc/main/java/com/vinicius123131/use_cases/criar_nova_pessoa/implementations/ports/ArmazenamentoPesssoaPort.java,1/4/1440802c37819ff3b295d06dc6788de549192e7e
 Å
 Qsrc/main/java/com/vinicius123131/use_cases/criar_nova_pessoa/CriarNovaPessoa.java,e/5/e5d8f1348639fcb7ecb73229f0ef1d7419f370ce
