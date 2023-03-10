@@ -19,6 +19,7 @@ public class BuscarTodasAsPessoasRestEndpointOutput {
         List<String> pessoas = new ArrayList<>();
         for (Pessoa pessoa : pessoasDaFila){
             pessoas.add(pessoa.getNome()+". posição na fila: "+ pessoa.getPosicao_fila());
+
         }
         return new BuscarTodasAsPessoasRestEndpointOutput(pessoas);
     }

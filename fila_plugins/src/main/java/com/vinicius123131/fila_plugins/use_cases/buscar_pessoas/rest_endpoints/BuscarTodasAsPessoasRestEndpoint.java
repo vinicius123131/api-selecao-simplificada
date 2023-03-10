@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
-@RequestMapping(Resources.URL)
+@RequestMapping(Resources.URL_PESSOA)
 @RequiredArgsConstructor
 public class BuscarTodasAsPessoasRestEndpoint {
 

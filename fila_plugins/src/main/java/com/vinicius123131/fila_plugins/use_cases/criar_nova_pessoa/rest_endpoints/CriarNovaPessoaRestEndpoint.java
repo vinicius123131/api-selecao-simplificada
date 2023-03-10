@@ -32,14 +32,14 @@ public class CriarNovaPessoaRestEndpoint {
                 .status(201)
                 .body(CriarNovaPessoaRestEndpointOutput.of(pessoaRecemCriada));
     }
-    @GetMapping("/teste")
-    public String criarAlgo(){
-        var orga = new OrganizacaoFilaFactory().makeInstance();
-        orga.setId(1L);
-        orga.setPessoasNaFila(new ArrayList<>());
-        orga.setFilaAgendada(new ArrayList<>());
-        orga.setQuantidadeDePessoasQueMuderamDeLugar(0);
-        organizacaoFilaTableEntityRepository.save(organizacaoFIlaTableEntityMapper.mapearParaTableEntity(orga));
-        return "Deu bom";
+    @GetMapping("/criarFila")
+    public ResponseEntity<String> criarFila(){
+        var fila = new OrganizacaoFilaFactory().makeInstance();
+        fila.setId(1L);
+        fila.setPessoasNaFila(new ArrayList<>());
+        fila.setFilaAgendada(new ArrayList<>());
+        fila.setQuantidadeDePessoasQueMuderamDeLugar(0);
+        organizacaoFilaTableEntityRepository.save(organizacaoFIlaTableEntityMapper.mapearParaTableEntity(fila));
+        return ResponseEntity.status(200).body("Sua Lista Foi Criada Com Sucesso");
     }
 }

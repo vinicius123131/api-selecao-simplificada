@@ -7,6 +7,7 @@ import lombok.NoArgsConstructor;
 public class Resources {
 
     public static final String URL = "/fila";
+    public static final String URL_PESSOA="/pessoa";
     public static final String URL_ID = "id";
     public static final String URL_FINDID = "/{id}";
 
